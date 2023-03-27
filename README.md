@@ -1,4 +1,4 @@
-- 🦋 chinmaybhole.live
+- 🦋 www.chinmaybhole.live
 - 👋 Hi, I’m @chinmaybhole
 - 👀 I’m interested in coding and learning new language
 - 🌱 I’m currently learning web dev and automation in python
